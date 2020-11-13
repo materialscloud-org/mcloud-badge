@@ -22,7 +22,7 @@ You can copy-paste the following code snippets into your document, depending on 
 **MarkDown**:
 
 Exchange `SECTION` with the relevant section or sub-section you wish to point to.
-See [the section below](#available_`section`s) for a list of available `SECTION`s.
+See [the section below](#available-sections) for a list of available `SECTION`s.
 
 ```markdown
 [![Materials Cloud SECTION](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/materialscloud-org/mcloud-badge/main/badges/mcloud_badge_SECTION.json)](https://materialscloud.org/SECTION/)
